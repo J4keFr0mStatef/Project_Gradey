@@ -1,0 +1,9 @@
+# Project Scopes and Goals:
+
+Functionalities wanted:
+  [ ] Master object to keep important data that will be stored in a .pickle file
+  [ ] A way to exit the program that will automatically save the master object
+  [ ] Ability to calculate weighted GPA across a single quarter, a whole year, and overall
+  [ ] Ability to overwrite grades once inputted
+  [ ] Ability to display all current classes, a years' classes, and all time classes in an organised manner
+  [ ] ...
